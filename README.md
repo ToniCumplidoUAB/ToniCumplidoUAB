@@ -1,5 +1,4 @@
 ## Hola, mi nombre es Toni Cumplido Sánchez 👋
----
 ### Tècnic mitjà del SID de Ciències i de Biociències
 
 Sòc tècnic del SID de Ciències i de Biociències des del 2016. Abans d'això, vaig ser-hi 5 anys al SID de Lletres i de Psicologia i 10 al SERIM de la Facultat de Traducció i d'Interpretació.
