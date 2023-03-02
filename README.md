@@ -1,4 +1,4 @@
-## Hola, mi nombre es Toni Cumplido Sánchez 👋
+## Hola, el meu nom és Toni Cumplido Sánchez 👋
 ### Tècnic mitjà del SID de Ciències i de Biociències
 ![Universitat Autònoma de Barcelona](https://raw.githubusercontent.com/ToniCumplidoUAB/ToniCumplidoUAB/main/imatges/logo_uab_2lh_negre.png)
 Sòc tècnic del SID de Ciències i de Biociències des del 2016. Abans d'això, vaig ser-hi 5 anys al SID de Lletres i de Psicologia i 10 al SERIM de la Facultat de Traducció i d'Interpretació.
